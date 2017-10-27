@@ -1,4 +1,4 @@
-Commands:
+## Commands:
 
 !ping - This will return "pong" - Essentially to check if the bot is currently active
 
